@@ -1,0 +1,7 @@
+D:\Learning\Dotnet\AzureLearningApp\AzureLearningApp.Web\bin\Publish\AzureLearningApp.Web.exe
+D:\Learning\Dotnet\AzureLearningApp\AzureLearningApp.Web\bin\Publish\appsettings.Development.json
+D:\Learning\Dotnet\AzureLearningApp\AzureLearningApp.Web\bin\Publish\appsettings.json
+D:\Learning\Dotnet\AzureLearningApp\AzureLearningApp.Web\bin\Publish\AzureLearningApp.Web.dll
+D:\Learning\Dotnet\AzureLearningApp\AzureLearningApp.Web\bin\Publish\AzureLearningApp.Web.deps.json
+D:\Learning\Dotnet\AzureLearningApp\AzureLearningApp.Web\bin\Publish\AzureLearningApp.Web.runtimeconfig.json
+D:\Learning\Dotnet\AzureLearningApp\AzureLearningApp.Web\bin\Publish\AzureLearningApp.Web.pdb
